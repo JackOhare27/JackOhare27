@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Jack O'Hare and welcome to my Github 
+## It is currently under construction but feel free to check out my previous work!
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
