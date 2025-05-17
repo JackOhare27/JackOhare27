@@ -32,7 +32,7 @@ I also create fun and engaging games! You can find them here:
 ## 📄 My Research Papers 🧠  
 I am actively involved in **VR/AR research** and have contributed to the academic community. Check out my latest paper:  
 
-- **[Design and Implementation of a CPR Training System Utilizing 3D Object Recognition and Augmented Reality Technologies](https://drive.google.com/file/d/1MJ7sJSJXBoOmsOsG6EO3iHmg8BHqMXrJ/view?usp=sharing)**  
+- **[Design and Implementation of a CPR Training System Utilizing 3D Object Recognition and Augmented Reality Technologies](https://drive.google.com/file/d/1Y8JD3w3vQ3M46V5zXS3Nbl9HYoYNCAox/view?usp=sharing)**  
   
 
 ---
